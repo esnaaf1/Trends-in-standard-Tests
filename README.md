@@ -1,6 +1,6 @@
 # TRENDS-IN-STANDARD-TESTS
 
-This project, I use Pandas library and Jupyter notebook to analyze district-wide standard test results.
+In this project I use Pandas library and Jupyter notebook to analyze district-wide standard test results.
 
 The analysis includes the following:
 
